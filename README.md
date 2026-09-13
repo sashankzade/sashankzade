@@ -1,103 +1,73 @@
-# Hey, I'm Sashank Zade 👋
+<h1 align="center">Hi, I'm Sashank 👋</h1>
+<h3 align="center">Student · Quant Finance & Math Nerd · Builder</h3>
 
-### Quantitative Finance • Mathematics • Programming
+<p align="center">
+I like figuring out how markets actually work under the hood — not just the theory,<br/>
+but the plumbing: order books, matching logic, the math that holds it together.
+</p>
 
-I'm a student exploring the intersection of **mathematics, probability, statistics, programming, and financial markets**.
+<br/>
 
-I'm particularly interested in **quantitative trading, quantitative research, market microstructure, and systematic strategies**.
+## About Me
 
-I enjoy taking ideas from theory and turning them into **code, simulations, and experiments**.
+I'm a student spending most of my free time somewhere between math and markets — probability, statistics, and the kind of problems where the answer isn't obvious until you actually sit down and work through it.
 
----
+I got into quant finance because I wanted to understand *why* things move the way they do, not just trade on a hunch. So instead of only reading about market microstructure, I started building it — which is how the order book project below happened.
 
-## 🔭 What I'm Working On
+My usual loop: read about something, get frustrated that I don't really get it, build a small version of it, break it, fix it, and repeat until it clicks.
 
-- 📈 Exploring **quantitative trading & research**
-- 🧠 Strengthening **probability, statistics & mathematical problem solving**
-- 💻 Building projects using **Python & C++**
-- 📊 Working with **financial data and statistical models**
-- ⚙️ Exploring **market microstructure, order books & trading systems**
-- 🧩 Practicing **probability puzzles, mental math & algorithmic problems**
+<br/>
 
----
+## What I've Been Building
 
-## 🌱 Currently Learning
+### 🧩 Limit Order Book & Matching Engine (C++)
+This is the project I'm most proud of so far. I wanted to know how an exchange actually matches buyers and sellers, so I built one myself — price-time priority, a live order book, the whole matching logic.
 
-**Mathematics**  
-`Probability` `Statistics` `Linear Algebra` `Calculus` `Optimization`
+- Matches orders on price-time priority, like a real exchange would
+- Tracks the book's bid/ask depth as orders come in and out
+- Generates simulated market data so I can test how it behaves under different flow
 
-**Computer Science**  
-`Data Structures & Algorithms` `C++` `Python` `Numerical Computing`
+It's still evolving — I keep finding new edge cases to handle and things to optimize.
 
-**Finance**  
-`Financial Markets` `Derivatives` `Market Microstructure` `Algorithmic Trading`
+**[→ Check it out](https://github.com/sashankzade/limit-order-book-matching-engine)**
 
----
+<br/>
 
-## 🧠 How I Learn
+## What I'm Into Right Now
 
-> **Learn → Build → Test → Improve**
+`Probability & Statistics` `Market Microstructure` `Algorithmic Trading` `C++` `Python` `Optimization`
 
-I believe quantitative concepts become much more meaningful when they're **implemented and tested in practice**.
+<br/>
 
-Rather than only studying a model or algorithm, I try to understand:
+## Talk to Me About
 
-- **Why does it work?**
-- **When does it fail?**
-- **How can it be implemented efficiently?**
+Probability puzzles, order books, why a strategy that looks great backtested might fall apart live, mental math tricks, or just what I should build next.
 
----
+<br/>
 
-## 🔬 What I Build
+## Tools I Use
 
-I'm interested in projects involving:
+<p align="left">
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
-- 📊 Quantitative Finance
-- 📈 Algorithmic & Systematic Trading
-- 🧮 Probability & Mathematical Simulations
-- ⚙️ Trading Systems & Market Simulations
-- 📉 Financial Data Analysis
-- 🤖 Statistical / Machine Learning
-- 💻 Algorithms & Performance Optimization
+<br/>
 
----
+## Contact
 
-## 🚀 Featured Project
+📫 [sashankzade19@gmail.com](mailto:sashankzade19@gmail.com)
 
-### Limit Order Book & Matching Engine
+<br/>
 
-Exploring the mechanics of **electronic markets and market microstructure** through a C++ limit-order-book and matching-engine system.
-
-**Concepts explored:**
-
-`Price-Time Priority` · `Limit Orders` · `Order Books` · `Bid/Ask` · `Matching Engines` · `Market Simulation` · `Market Data` · `Performance`
-
-**→ [View Project](https://github.com/sashankzade/limit-order-book-matching-engine)**
-
----
-
-# 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-
----
-
-## 💬 Ask Me About
-
-**Probability · Mathematics · Programming · Algorithms · Financial Markets · Quantitative Trading**
-
----
-
-## 📫 Contact
-
-**Email:** [sashankzade19@gmail.com](mailto:sashankzade19@gmail.com)
+<p align="center">
+<i>Understand the math. Build the thing. See if it actually holds up.</i>
+</p>
