@@ -20,23 +20,27 @@ That loop is basically how the project below came about.
 
 ### 🚀 Featured Project
 
-#### [Limit Order Book & Matching Engine](https://github.com/sashankzade/limit-order-book-matching-engine)
+## Limit Order Book & Matching Engine
 
-A C++ project exploring the mechanics behind **electronic markets and order matching**.
+A C++ project exploring the mechanics of **electronic markets, order matching, and market microstructure**.
 
-The project focuses on:
+**Key concepts:**
 
-- ⚡ **Price-time priority**
-- 📖 **Limit order books**
-- 💱 **Bid / ask dynamics**
-- 🔄 **Order matching**
-- 📊 **Simulated order flow**
-- ⚙️ **Market-data handling**
-- 🚀 **Performance & benchmarking**
+- ⚡ **Price-Time Priority**
+- 📖 **Limit Order Books**
+- 💱 **Bid / Ask Dynamics**
+- 🔄 **Order Matching**
+- 📊 **Simulated Order Flow**
+- ⚙️ **Market Data Handling**
+- 🚀 **Performance & Benchmarking**
 
-I'm particularly interested in the edge cases — the situations where a system behaves differently from what you initially expected.
+I'm particularly interested in the **edge cases** — the situations where a system behaves differently from what you initially expected, and what those failures reveal about the underlying mechanics.
 
-**[→ View the project](https://github.com/sashankzade/limit-order-book-matching-engine)**
+<p align="center">
+  <a href="https://github.com/sashankzade/limit-order-book-matching-engine">
+    <b>→ View Repository</b>
+  </a>
+</p>
 
 ---
 
@@ -74,7 +78,7 @@ I'm particularly interested in the edge cases — the situations where a system 
 
 ### 💬 Happy to Talk About
 
-**Order books · Probability puzzles · Market microstructure · Backtesting · Mental math · Algorithms · Quantitative trading**
+**Order Books · Probability Puzzles · Market Microstructure · Backtesting · Mental Math · Algorithms · Quantitative Trading**
 
 I'm always interested in discussing ideas, breaking down problems, or figuring out **what to build next**.
 
@@ -82,11 +86,9 @@ I'm always interested in discussing ideas, breaking down problems, or figuring o
 
 ### 📫 Contact
 
-<p align="center">
-  <a href="mailto:sashankzade19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sashankzade19%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+**Email:** [sashankzade19@gmail.com](mailto:sashankzade19@gmail.com)
+
+---
 
 <p align="center">
   <i>Understand the mechanics. Everyone already has an opinion on direction.</i>
