@@ -36,11 +36,7 @@ A C++ project exploring the mechanics of **electronic markets, order matching, a
 
 I'm particularly interested in the **edge cases** — the situations where a system behaves differently from what you initially expected, and what those failures reveal about the underlying mechanics.
 
-<p align="center">
-  <a href="https://github.com/sashankzade/limit-order-book-matching-engine">
-    <b>→ View Repository</b>
-  </a>
-</p>
+**[Check it out →](https://github.com/sashankzade/limit-order-book-matching-engine)**
 
 ---
 
