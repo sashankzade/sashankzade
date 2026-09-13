@@ -1,51 +1,24 @@
 <h1 align="center">Hi, I'm Sashank 👋</h1>
-<h3 align="center">Student · Quant Finance & Math Nerd · Builder</h3>
 
-<p align="center">
-I like figuring out how markets actually work under the hood — not just the theory,<br/>
-but the plumbing: order books, matching logic, the math that holds it together.
-</p>
+I'm a student who got a little obsessed with markets — not the "line goes up" part, but the actual mechanics underneath: how orders get matched, why prices move the way they do, what breaks when volume spikes. Math and probability are the toolkit, code is how I test if I actually understand something.
 
-<br/>
+I'm mostly self-taught in this stuff, learning through a lot of trial and error — reading a paper or a concept, not fully getting it, building a small version of it, watching it break, and fixing it until it clicks. That loop is basically how the project below came about.
 
-## About Me
+## The project I keep coming back to
 
-I'm a student spending most of my free time somewhere between math and markets — probability, statistics, and the kind of problems where the answer isn't obvious until you actually sit down and work through it.
+**[Limit Order Book & Matching Engine](https://github.com/sashankzade/limit-order-book-matching-engine)** — written in C++.
 
-I got into quant finance because I wanted to understand *why* things move the way they do, not just trade on a hunch. So instead of only reading about market microstructure, I started building it — which is how the order book project below happened.
+I wanted to actually understand how an exchange matches a buyer with a seller, so instead of just reading about price-time priority I built it. It maintains a live order book, matches orders the way a real exchange would, and generates simulated order flow so I can poke at how it behaves under different conditions. It's not "done" — I keep finding edge cases I hadn't thought about, which is honestly my favorite part.
 
-My usual loop: read about something, get frustrated that I don't really get it, build a small version of it, break it, fix it, and repeat until it clicks.
+## What I'm spending my time on
 
-<br/>
+Probability and statistics, market microstructure, algorithmic trading, C++ and Python, and a fair number of optimization problems that started as homework and turned into a rabbit hole.
 
-## What I've Been Building
+## Happy to talk about
 
-### 🧩 Limit Order Book & Matching Engine (C++)
-This is the project I'm most proud of so far. I wanted to know how an exchange actually matches buyers and sellers, so I built one myself — price-time priority, a live order book, the whole matching logic.
+Order books, probability puzzles, why a backtest that looks amazing can fall apart the moment it hits real data, mental math tricks, or just bouncing around ideas for what to build next.
 
-- Matches orders on price-time priority, like a real exchange would
-- Tracks the book's bid/ask depth as orders come in and out
-- Generates simulated market data so I can test how it behaves under different flow
-
-It's still evolving — I keep finding new edge cases to handle and things to optimize.
-
-**[→ Check it out](https://github.com/sashankzade/limit-order-book-matching-engine)**
-
-<br/>
-
-## What I'm Into Right Now
-
-`Probability & Statistics` `Market Microstructure` `Algorithmic Trading` `C++` `Python` `Optimization`
-
-<br/>
-
-## Talk to Me About
-
-Probability puzzles, order books, why a strategy that looks great backtested might fall apart live, mental math tricks, or just what I should build next.
-
-<br/>
-
-## Tools I Use
+## Tools I reach for
 
 <p align="left">
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -60,14 +33,10 @@ Probability puzzles, order books, why a strategy that looks great backtested mig
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<br/>
-
 ## Contact
 
 📫 [sashankzade19@gmail.com](mailto:sashankzade19@gmail.com)
 
-<br/>
+---
 
-<p align="center">
-<i>Understand the math. Build the thing. See if it actually holds up.</i>
-</p>
+*Understand the math. Build the thing. See if it actually holds up.*
