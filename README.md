@@ -89,5 +89,5 @@ I'm always interested in discussing ideas, breaking down problems, or figuring o
 </p>
 
 <p align="center">
-  <i>Understand the math. Build the thing. See if it actually holds up.</i>
+  <i>Understand the mechanics. Everyone already has an opinion on direction.</i>
 </p>
