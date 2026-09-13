@@ -12,24 +12,24 @@ I enjoy taking ideas from theory and turning them into **code, simulations, and 
 
 ## 🔭 What I'm Working On
 
-* 📈 Exploring **quantitative trading & research**
-* 🧠 Strengthening **probability, statistics & mathematical problem solving**
-* 💻 Building projects using **Python & C++**
-* 📊 Working with **financial data and statistical models**
-* ⚙️ Exploring **market microstructure, order books & trading systems**
-* 🧩 Practicing **probability puzzles, mental math & algorithmic problems**
+- 📈 Exploring **quantitative trading & research**
+- 🧠 Strengthening **probability, statistics & mathematical problem solving**
+- 💻 Building projects using **Python & C++**
+- 📊 Working with **financial data and statistical models**
+- ⚙️ Exploring **market microstructure, order books & trading systems**
+- 🧩 Practicing **probability puzzles, mental math & algorithmic problems**
 
 ---
 
 ## 🌱 Currently Learning
 
-**Mathematics**
+**Mathematics**  
 `Probability` `Statistics` `Linear Algebra` `Calculus` `Optimization`
 
-**Computer Science**
+**Computer Science**  
 `Data Structures & Algorithms` `C++` `Python` `Numerical Computing`
 
-**Finance**
+**Finance**  
 `Financial Markets` `Derivatives` `Market Microstructure` `Algorithmic Trading`
 
 ---
@@ -42,9 +42,9 @@ I believe quantitative concepts become much more meaningful when they're **imple
 
 Rather than only studying a model or algorithm, I try to understand:
 
-* **Why does it work?**
-* **When does it fail?**
-* **How can it be implemented efficiently?**
+- **Why does it work?**
+- **When does it fail?**
+- **How can it be implemented efficiently?**
 
 ---
 
@@ -52,13 +52,13 @@ Rather than only studying a model or algorithm, I try to understand:
 
 I'm interested in projects involving:
 
-* 📊 Quantitative Finance
-* 📈 Algorithmic & Systematic Trading
-* 🧮 Probability & Mathematical Simulations
-* ⚙️ Trading Systems & Market Simulations
-* 📉 Financial Data Analysis
-* 🤖 Statistical / Machine Learning
-* 💻 Algorithms & Performance Optimization
+- 📊 Quantitative Finance
+- 📈 Algorithmic & Systematic Trading
+- 🧮 Probability & Mathematical Simulations
+- ⚙️ Trading Systems & Market Simulations
+- 📉 Financial Data Analysis
+- 🤖 Statistical / Machine Learning
+- 💻 Algorithms & Performance Optimization
 
 ---
 
@@ -76,23 +76,19 @@ Exploring the mechanics of **electronic markets and market microstructure** thro
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-**Languages**
-
-`C++` `Python` `SQL`
-
-**Quant & Data**
-
-`NumPy` `Pandas` `SciPy` `Matplotlib` `Jupyter`
-
-**C++ / Systems**
-
-`CMake` `GoogleTest` `Google Benchmark`
-
-**Tools**
-
-`Git` `GitHub` `Linux` `VS Code`
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 
 ---
 
