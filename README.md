@@ -101,11 +101,3 @@ Exploring the mechanics of **electronic markets and market microstructure** thro
 ## 📫 Contact
 
 **Email:** [sashankzade19@gmail.com](mailto:sashankzade19@gmail.com)
-
----
-
-### ⚡ Fun Fact
-
-I enjoy problems where **math, logic, and code come together** — especially when the answer isn't obvious.
-
-> **Understand the mathematics. Build the system. Test the idea.**
